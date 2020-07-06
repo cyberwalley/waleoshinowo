@@ -55,7 +55,7 @@ logo = "images/logo.png"
 theme_color = "#41228e"
 # contact info
 phone = "+880 2544 658 256"
-email = "steve.fruits@email.com"
+email = "info@waleoshinowo.com"
 address = "125/A, CA Commercial Area, California, USA"
 # meta description
 author = "Johnathan Smith"
@@ -63,7 +63,7 @@ description = "This is meta description"
 # google analytics
 google_analytics_id = "" # Your ID
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "&copy; 2020 Wale Oshinowo"
 
 
 # contact
