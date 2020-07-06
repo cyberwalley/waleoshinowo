@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Wale Oshinowo"
+theme = "kross-hugo"
